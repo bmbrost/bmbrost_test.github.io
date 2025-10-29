@@ -4,7 +4,7 @@ bio: Statistics + Spatial Science + Data Visualizaiton
 description: This is mumbo jumbo in the home description.
 
 # twitter summary info
-description: Jimmy O'Donnell's personal site twitter summary info
+description: No twitter summary info
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,11 +13,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume: true
+resume-external: true
+resume-url: https://github.com/bmbrost/cv/blob/633dc2f0b49e20776f3e9398ff70ecc8f56086e4/out/brost_cv.html
 
-url: https://jimmyodonnell.github.io
+url: https://bmbrost.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -40,10 +40,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: jimmyod
+linkedin: bmbrost
 # youtube: myyoutube
 # spotify: myspotify
-github: jimmyodonnell
+github: bmbrost
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -52,12 +52,12 @@ github: jimmyodonnell
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: hello@jimmyod.com
+email: bmbrost@gmail.com
 
 authors:
-    jimmy:
-        name: Jimmy O'Donnell
-        bio: This is Jimmy's author bio
+    brian:
+        name: Brian Brost
+        bio: This is Brian's author bio
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
@@ -76,7 +76,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: false
